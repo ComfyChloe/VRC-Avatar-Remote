@@ -12,7 +12,8 @@ Later during this year I'm looking to expand this for more users but theres lots
 This is my solo project and theres lots of problems to manage after more then 2 users appear.
 
 Want access?
-
+Fill the form below as once it can be used by more users I will be looking
+https://docs.google.com/forms/d/e/1FAIpQLSef2Cz_e5llQHw5yn2zs6JWxG8jKxWHvfoVa5v1hPDLltHS5A/viewform
 
 ### Overview
 
