@@ -5,6 +5,15 @@ This repository is used for tracking feature requests, improvements, bugs, and g
 This app lets you change avatars parameters through a browser-based interface
 Toggles, buttons and Float wheels
 Sort of like a customizable extension of the Action Menu but on online for everyone
+
+### Closed alpha
+Currently only myself and 1 additional user for testing reasons have access.
+Later during this year I'm looking to expand this for more users but theres lots of nieche things to work on.
+This is my solo project and theres lots of problems to manage after more then 2 users appear.
+
+Want access?
+
+
 ### Overview
 
 What is this actually?
